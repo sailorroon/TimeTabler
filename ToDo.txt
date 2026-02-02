@@ -1,0 +1,16 @@
+DATE, KEY, TASK, PRIORITY
+2026/2/5, PHY, Midterm 1, 4 
+2026/2/10, ECE, Midterm 1, 5 
+2026/2/15, ESC, Design Dossier 1 & Design Critique, 4 
+2026/2/26, BME, Midterm, 5 
+2026/3/2, ESC, Competency Based Assessment 1, 1 
+2026/3/5, MIE, Midterm, 4 
+2026/3/19, ECE, Midterm 2, 5 
+2026/3/24, BME, Quiz 2, 3 
+2026/3/26, PHY, Midterm 2, 4 
+2026/3/30, ESC, Design Dossier 2 & Design Debrief, 4 
+2026/4/6, ESC, Showcase, 4 
+2026/4/7, ESC, Competency Based Assessment 2, 1
+2026/2/15, MIE, Proposal, 3
+2026/4/7, MIE, Project, 4
+2026/2/14, OTHER, Valentines Day, 1
